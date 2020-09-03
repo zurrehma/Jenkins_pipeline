@@ -1,4 +1,4 @@
 version=0.1
 dirName=TheEvent
-imageName=nginx
+imageName=nginx-static
 containerName=marketing
